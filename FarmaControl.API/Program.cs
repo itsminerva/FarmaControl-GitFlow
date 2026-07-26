@@ -43,13 +43,13 @@ builder.Services.AddScoped<IVentaService, VentaService>();
 // Inyección de dependencias - Alertas de vencimiento
 builder.Services.AddScoped<IAlertaService, AlertaService>();
 
-// Swagger
+// Configuración de Swagger para documentar y probar los endpoints de la API
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Configuración del pipeline HTTP
+// Configuración del pipeline de solicitudes HTTP
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
