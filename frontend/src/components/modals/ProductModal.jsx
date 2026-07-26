@@ -5,7 +5,7 @@ import ModalActions from '../common/ModalActions'
 
 function ProductModal({ open, productModal, categories, providers, saving, onClose, setProductModal, onSubmit }) {
   return (
-    <Modal open={open} title={productModal.mode === 'edit' ? 'Editar producto' : 'Nuevo producto'} onClose={onClose}>
+      <Modal open={open} title={productModal.mode === 'edit' ? 'Actualizar producto' : 'Nuevo producto'} onClose={onClose}>
       <form onSubmit={onSubmit} className="row g-3">
               <FormInput label="Codigo" value={productModal.data.codigo} onChange={(value) => setProductModal((current) => ({ ...current, data: { ...current.data, codigo: value } }))} help="Si no ingresas un código, el sistema lo generará automáticamente." />
         <div className="col-12">
@@ -34,7 +34,7 @@ function ProductModal({ open, productModal, categories, providers, saving, onClo
           <label className="form-label">Fecha de vencimiento</label>
           <input className="form-control" type="date" value={productModal.data.fechaVencimiento} onChange={(event) => setProductModal((current) => ({ ...current, data: { ...current.data, fechaVencimiento: event.target.value } }))} required />
         </div>
-              <ModalActions saving={saving} onCancel={onClose} submitLabel={productModal.mode === 'edit' ? 'Guardar cambios' : 'Registrar producto'} />
+              <ModalActions saving={saving} onCancel={onClose} submitLabel={productModal.mode === 'edit' ? 'Actualizar producto' : 'Registrar producto'} />
       </form>
     </Modal>
   )
