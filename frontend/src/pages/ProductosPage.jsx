@@ -61,7 +61,7 @@ function ProductosPage({ categories, providers, products, productFilter, setProd
                   <td className="text-end">
                     <div className="btn-group btn-group-sm">
                       <button className="btn btn-outline-success" onClick={() => onEdit(item)}>Editar</button>
-                      <button className="btn btn-outline-danger" onClick={() => onDelete(item.idProducto)}>Eliminar</button>
+                      <button className="btn btn-outline-danger" onClick={() => onDelete(item.idProducto)}>Eliminar producto</button>
                     </div>
                   </td>
                 </tr>
