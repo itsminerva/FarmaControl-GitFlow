@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FarmaControl.Infrastructure/1.0.0": {
+        "runtime": {
+          "FarmaControl.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FarmaControl.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

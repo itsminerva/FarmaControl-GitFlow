@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FarmaControl.Domain/1.0.0": {
+        "runtime": {
+          "FarmaControl.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FarmaControl.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

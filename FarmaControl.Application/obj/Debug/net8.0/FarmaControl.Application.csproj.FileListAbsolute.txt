@@ -1,0 +1,15 @@
+C:\Users\Aremil\Downloads\FarmaControl_API_completo\FarmaControl.Application\bin\Debug\net8.0\FarmaControl.Application.deps.json
+C:\Users\Aremil\Downloads\FarmaControl_API_completo\FarmaControl.Application\bin\Debug\net8.0\FarmaControl.Application.dll
+C:\Users\Aremil\Downloads\FarmaControl_API_completo\FarmaControl.Application\bin\Debug\net8.0\FarmaControl.Application.pdb
+C:\Users\Aremil\Downloads\FarmaControl_API_completo\FarmaControl.Application\bin\Debug\net8.0\FarmaControl.Domain.dll
+C:\Users\Aremil\Downloads\FarmaControl_API_completo\FarmaControl.Application\bin\Debug\net8.0\FarmaControl.Domain.pdb
+C:\Users\Aremil\Downloads\FarmaControl_API_completo\FarmaControl.Application\obj\Debug\net8.0\FarmaControl.Application.csproj.AssemblyReference.cache
+C:\Users\Aremil\Downloads\FarmaControl_API_completo\FarmaControl.Application\obj\Debug\net8.0\FarmaControl.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aremil\Downloads\FarmaControl_API_completo\FarmaControl.Application\obj\Debug\net8.0\FarmaControl.Application.AssemblyInfoInputs.cache
+C:\Users\Aremil\Downloads\FarmaControl_API_completo\FarmaControl.Application\obj\Debug\net8.0\FarmaControl.Application.AssemblyInfo.cs
+C:\Users\Aremil\Downloads\FarmaControl_API_completo\FarmaControl.Application\obj\Debug\net8.0\FarmaControl.Application.csproj.CoreCompileInputs.cache
+C:\Users\Aremil\Downloads\FarmaControl_API_completo\FarmaControl.Application\obj\Debug\net8.0\FarmaCon.40D9B4FC.Up2Date
+C:\Users\Aremil\Downloads\FarmaControl_API_completo\FarmaControl.Application\obj\Debug\net8.0\FarmaControl.Application.dll
+C:\Users\Aremil\Downloads\FarmaControl_API_completo\FarmaControl.Application\obj\Debug\net8.0\refint\FarmaControl.Application.dll
+C:\Users\Aremil\Downloads\FarmaControl_API_completo\FarmaControl.Application\obj\Debug\net8.0\FarmaControl.Application.pdb
+C:\Users\Aremil\Downloads\FarmaControl_API_completo\FarmaControl.Application\obj\Debug\net8.0\ref\FarmaControl.Application.dll
