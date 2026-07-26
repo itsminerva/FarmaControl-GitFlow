@@ -7,8 +7,8 @@ function ProductosPage({ categories, providers, products, productFilter, setProd
   return (
     <>
       <SectionHeader
-        title="Productos"
-        subtitle="CRUD completo del inventario de medicamentos."
+        title="Gestión de Productos"
+        subtitle="Administración y consulta del inventario de medicamentos."
         actions={(
           <div className="d-flex gap-2 flex-wrap">
             <input
@@ -28,7 +28,7 @@ function ProductosPage({ categories, providers, products, productFilter, setProd
           <thead>
             <tr>
               <th>Codigo</th>
-              <th>Nombre</th>
+              <th>Nombre del producto</th>
               <th>Categoria</th>
               <th>Proveedor</th>
               <th>Precio venta</th>
